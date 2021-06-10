@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47ee117a-107b-4c57-9a66-88c056b1aa7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/circomlib" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="apprffap" />
+  </component>
+  <component name="ProjectId" id="1tTRXZ34wkPkkD57HcvRIsBx99u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/circuit/receiver" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/circuit/receiver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/circuit" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47ee117a-107b-4c57-9a66-88c056b1aa7e" name="Default Changelist" comment="" />
+      <created>1622791133149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622791133149</updated>
+      <workItem from="1622791134245" duration="596000" />
+      <workItem from="1623028397419" duration="14335000" />
+      <workItem from="1623113296368" duration="11725000" />
+      <workItem from="1623141738725" duration="1801000" />
+      <workItem from="1623197951273" duration="10502000" />
+      <workItem from="1623287038466" duration="9296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="292" width="569" height="374" key="#Notifications" timestamp="1623131945451">
+      <screen x="0" y="30" width="1918" height="896" />
+    </state>
+    <state x="669" y="292" width="569" height="374" key="#Notifications/0.30.1918.896@0.30.1918.896" timestamp="1623131945451" />
+    <state x="656" y="147" width="662" height="543" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623208754876">
+      <screen x="0" y="30" width="1918" height="896" />
+    </state>
+    <state x="656" y="147" width="662" height="543" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1918.896@0.30.1918.896" timestamp="1623208754876" />
+    <state x="448" y="113" width="1022" height="733" key="SettingsEditor" timestamp="1623141777050">
+      <screen x="0" y="30" width="1918" height="896" />
+    </state>
+    <state x="448" y="113" width="1022" height="733" key="SettingsEditor/0.30.1918.896@0.30.1918.896" timestamp="1623141777050" />
+  </component>
+</project>
